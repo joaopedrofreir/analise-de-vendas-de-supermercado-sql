@@ -44,6 +44,5 @@ Demonstrar habilidades em:
 
 ## 👤 Autor
 
-João Pedro Freire Barroso Magalhães
-Estudante de Ciências da Computação
-Estagiário de Inteligência de Mercado
+João Pedro Freire Barroso Magalhães -
+https://github.com/joaopedrofreir
